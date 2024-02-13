@@ -1,0 +1,26 @@
+body
+{
+   background-color: rgb(190, 165, 21);
+}
+b
+{
+ color: rgb(53, 207, 22);
+}
+p
+{
+    margin: 15px 15px 15px;
+    color: azure;
+}
+u
+{
+    color: rgb(9, 56, 211);
+    font-family: \;
+}
+h1
+{
+    text-align: center;
+    font-size: medium;
+    text-shadow: 5px 5px 5px;
+    color: rgb(114, 9, 146);
+
+}
